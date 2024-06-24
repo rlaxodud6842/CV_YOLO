@@ -1,0 +1,6 @@
+train: <path/for/dataset>
+val: <path/for/dataset>
+test: <path/for/dataset>
+
+nc: 3
+names: ['axe', 'gun', 'knife']
